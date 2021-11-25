@@ -33,7 +33,7 @@ img {
 
 .header-container {
     width: 1110px;
-    margin: 0 auto;
+    margin: 20px auto 16px;
     display: flex;
     align-items: center;
 }
@@ -159,7 +159,7 @@ img {
 
 .footer-container {
     width: 1110px;
-    margin: 0 auto;
+    margin: 24px auto 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
